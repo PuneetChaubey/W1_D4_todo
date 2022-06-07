@@ -1,0 +1,14 @@
+.input_div{
+   max-width:350px ;
+   margin: auto;
+   background-color: brown;
+   padding:5px 0px 45px 0px;
+   margin-bottom: 5px;
+}
+.input_task{
+    padding: 15px;
+    width:72%;
+}
+.add_task{
+    padding: 15px;
+}

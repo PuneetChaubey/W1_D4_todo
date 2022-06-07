@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+    max-width: 350px;
+    border: 1px solid black;
+    background-color: teal;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    gap: 5px;
+
+}
+.remove_Button{
+    padding:10px ;
+}
+.checkBox{
+    height: 30px;
+    width: 30px;
+}
+.lineThrough{
+    text-decoration: line-through;
+}
